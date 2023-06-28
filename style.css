@@ -55,12 +55,12 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .information h1 {
-    color: black;
+    color: white;
     font-size: 29px;
     text-shadow: 2px 2px 4px #000000;
 }
 .information p {
-    color: white;
+    color: black;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
     margin-top: -15px;
