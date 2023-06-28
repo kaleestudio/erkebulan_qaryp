@@ -51,7 +51,7 @@ header {
     transform: scale(1.1);
 }
 .information {
-    margin-top: 175px;
+    margin-top: 205px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .information h1 {
@@ -60,7 +60,8 @@ header {
     text-shadow: 2px 2px 4px #000000;
 }
 .information p {
-    color: black;
+    color: white;
+    font-weight: bold;
     font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
     margin-top: -15px;
