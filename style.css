@@ -62,9 +62,10 @@ header {
 .information p {
     color: white;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
     margin-top: -15px;
+    margin-left: 20px;
 }
 .information a {
    text-decoration: none;
